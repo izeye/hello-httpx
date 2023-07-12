@@ -1,0 +1,4 @@
+anyio~=3.7.1
+httpx~=0.24.1
+starlette~=0.28.0
+trio==0.21.0 # There's no version of anyio that is not compatible with trio 0.22.
